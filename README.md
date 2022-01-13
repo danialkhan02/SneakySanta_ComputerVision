@@ -1,6 +1,7 @@
 # SneakySanta
  
 Contributers: Danial Khan, Suleiman Najim, Payas Hasteer, Abhi Sharma
+
 Special Thanks to https://github.com/Pawandeep-prog/Squid-Game in which our game was adapted from.
 
 SneakySanta is a open concept game inspired by the popular tv show squid game. The game is based on opencv and mediapipe machine learning python frameworks. OpenCV is an open-source library for computer vision, machine learning, and image processing. For our game, the Mediapipe framework was used to implement the pose detection ML solution. Additionally, we used the Pygame library in order to load the Christmas (jingle bell) song and pause/unpause it when the program is running.
