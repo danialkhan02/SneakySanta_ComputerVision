@@ -22,4 +22,4 @@ The rules are:
 
 . For macOS/linux follow the setup manual for mediapipe and openCV: https://google.github.io/mediapipe/getting_started/install.html
 
-<img width="11" alt="image" src="https://user-images.githubusercontent.com/83788585/189701551-11286a1a-d145-4f4a-963d-40e9e668ad46.png">
+<img width="144" alt="image" src="https://user-images.githubusercontent.com/83788585/189701652-1f393d04-6622-4671-bf4f-f4633dd2e60e.png">
